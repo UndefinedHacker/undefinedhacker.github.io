@@ -7,7 +7,6 @@
 html,
 body {
   margin: 0;
-  place-items: center;
   font: normal 75% Arial, Helvetica, sans-serif;
 }
 canvas {
