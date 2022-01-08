@@ -1,10 +1,4 @@
-* {
-    margin: 0;
-    text-decoration: none;
-    user-select: none;
-}
- 
-html,
+/* ---- reset ---- */
 body {
   margin: 0;
   font: normal 75% Arial, Helvetica, sans-serif;
@@ -13,50 +7,6 @@ canvas {
   display: block;
   vertical-align: bottom;
 }
- 
-img {
-    border-radius: 50%;
-    height: 16 rem;
-    padding: 4px;
-    border: 2px solid white;
-}
- 
-img:hover {
-    transform: scale(1.05);
-    transition-duration: 1s;
-}
- 
-.page-wrapper {
-    display: grid;
-    place-items: center;
-    text-align: center;
-}
- 
-h1 {
-    color: white;
-    font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
-    font-size: 3em;
-    font-weight: bold;
-    letter-spacing: -0.04rem;
-}
- 
-p {
-    color: rgb(98, 0, 255);
-    font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto, Oxygen, Ubuntu, Cantarell, open sans, helvetica neue, sans-serif;
-    font-size: 1.5em;
-    margin: 15px 0;
-}
- 
-.divider {
-    color: white;
-}
- 
-.icon {
-    color: white;
-    padding: 15px;
-    border-radius: 50%;
-}
-
 
 /* ---- particles.js container ---- */
 #particles-js {
@@ -68,19 +18,4 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 50%;
-}
- 
-ui .icon:hover {
-    cursor: pointer;
-    background-color: rgb(22, 22, 22);
-}
- 
-@media screen and (max-width:450px) {
-    h1 {
-        font-size: 4em;
-    }
- 
-    p {
-        font-size: 1em;
-    }
 }
