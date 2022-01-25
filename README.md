@@ -6,6 +6,17 @@
 
 I'm UndefinedHacker and I love to program in Termux! My favorite programming language is `Python`, and my secondary programming language is `JavaScript`.
 
+
+## Skills
+
+• Python (Novice)
+• JavaScript (Junior)
+• C++ (Beginner)
+• Rust (Beginner)
+• Java (Beginner)
+• C (Beginner)
+
+
 ## Links
 • Youtube Channel - [Undefined Hacker](https://youtube.com/channel/UCQy1k_FXsa5CVkLI-DUlVSA)
 
